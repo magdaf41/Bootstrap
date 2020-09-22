@@ -1,0 +1,21 @@
+h1 {
+    font-size: 2em;
+}
+
+.container {
+    background-color: rgb(226, 225, 225);
+    padding: 40px;
+    margin-top: 50px;
+}
+
+.accordion {
+    margin-bottom: 100px;
+}
+
+.btn:focus {
+    box-shadow: none
+}
+
+.card-header {
+    background-color: lightgray;
+}

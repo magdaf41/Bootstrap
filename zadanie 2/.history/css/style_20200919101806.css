@@ -1,0 +1,18 @@
+h1 {
+    font-size: 2em;
+}
+
+.container {
+    background-color: lightsteelblue;
+   padding: 40px;
+   padding-bottom: 50px;
+   margin-top: 50px;
+   margin-bottom: 100px;
+}
+.accordian {
+    margin-bottom: 50px;
+}
+
+.btn:focus {
+     box-shadow: none
+}

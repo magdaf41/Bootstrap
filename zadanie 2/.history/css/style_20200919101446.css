@@ -1,0 +1,12 @@
+h1 {
+    font-size: 2em;
+}
+
+.container {
+    background-color: lightsteelblue;
+    /* margin-bottom: 100px; */
+}
+
+.btn:focus {
+     box-shadow: none
+}
